@@ -41,7 +41,7 @@ Display all edge-detected images for comparison.
 Name: DEVADHAARINI.R
 Register No: 212225040061.
 ## Program:
-** Original Image**
+**Original Image**
 ```
 import cv2
 import numpy as np
