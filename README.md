@@ -38,8 +38,8 @@ Apply Canny edge detector using OpenCV.
 Display all edge-detected images for comparison.
 
 ## Developed By:
-Name: DEVADHAARINI.R
-Register No: 212225040061.
+- Name: DEVADHAARINI.R
+- Register No: 212225040061.
 ## Program:
 **Original Image**
 ```
@@ -79,7 +79,7 @@ plt.axis('off')
 ```
 
 ## Output:
-** Original Image**
+**Original Image**
 <img width="666" height="409" alt="Screenshot 2026-08-07 225956" src="https://github.com/user-attachments/assets/7e63c91d-1357-41d1-8120-5f776139a4da" />
 
 **Sobel Edge Detector**
