@@ -79,21 +79,21 @@ plt.axis('off')
 ```
 
 ## Output:
-- Original Image
+#### Original Image
 <img width="666" height="409" alt="Screenshot 2026-08-07 225956" src="https://github.com/user-attachments/assets/7e63c91d-1357-41d1-8120-5f776139a4da" />
 
-- Sobel Edge Detector
+#### Sobel Edge Detector
 - Detects edges in horizontal and vertical directions
 - Produces gradient-based edge map
 <img width="689" height="423" alt="Screenshot 2026-08-07 230026" src="https://github.com/user-attachments/assets/356c233e-e1df-485d-8230-a1acaf7b5069" />
 
   
-- Laplacian Edge Detector
+#### Laplacian Edge Detector
 - Detects edges using second-order derivatives
 - Highlights rapid intensity changes
 <img width="643" height="413" alt="Screenshot 2026-08-07 230242" src="https://github.com/user-attachments/assets/226470bb-bf1c-4785-813c-11e7f32ce198" />
 
-- Canny Edge Detector
+#### Canny Edge Detector
 - Multi-stage edge detection
 - Produces clean and thin edges
 <img width="674" height="411" alt="Screenshot 2026-08-07 230327" src="https://github.com/user-attachments/assets/7fc0a86e-1f47-4659-8ec5-75aed7eeda28" />
